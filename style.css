@@ -33,3 +33,13 @@ body {
     padding: lem;
     color: var(--branco-principal);
     display: block;
+
+
+
+
+
+
+    .botao_secundario  {
+        backgrounp-color: transparent;
+        border: 2px solid var(--branco-principal);
+    }
